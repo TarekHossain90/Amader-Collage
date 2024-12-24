@@ -1,4 +1,4 @@
 # Amader-Collage
 This is Collage Git Repository
 <br>
-Auther - T Hossain
+Auther - T (Amader Collage)
